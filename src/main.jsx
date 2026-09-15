@@ -12,3 +12,4 @@ function App() {
 
 createRoot(document.getElementById("root")).render(<App />);
 import "./style.css";
+import App from "./App.jsx";
